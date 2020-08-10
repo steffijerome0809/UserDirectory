@@ -13,7 +13,7 @@ const branches = [
   'Operations',
   'Human Resources',
 ];
-
+// the employee id generates a random id for the users from another js file
 const columns = [
   {
     dataField: 'id',

@@ -14,6 +14,7 @@ const branches = [
   'Human Resources',
 ];
 // the employee id generates a random id for the users from another js file
+// https://github.com/react-bootstrap-table/react-bootstrap-table2/issues/1345 solved the search name problem
 const columns = [
   {
     dataField: 'id',
